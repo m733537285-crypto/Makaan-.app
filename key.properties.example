@@ -1,0 +1,4 @@
+storePassword=CHANGE_ME
+keyPassword=CHANGE_ME
+keyAlias=makaan_release
+storeFile=../makaan-release-key.jks
