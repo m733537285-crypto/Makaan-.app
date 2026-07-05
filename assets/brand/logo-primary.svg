@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420">
+    <rect width="1200" height="420" rx="40" fill="#FFFFFF"/>
+    <g transform="translate(80,60)">
+      <path d="M120 0C53.7 0 0 53.7 0 120c0 87.1 120 216 120 216s120-128.9 120-216C240 53.7 186.3 0 120 0z" fill="#0F766E"/>
+      <circle cx="120" cy="120" r="52" fill="#FFFFFF"/>
+      <circle cx="120" cy="120" r="28" fill="#F59E0B"/>
+    </g>
+    <g transform="translate(390,118)">
+      <text x="0" y="94" font-size="120" font-weight="700" fill="#0F172A" direction="rtl">مكان</text>
+      <text x="4" y="160" font-size="42" font-weight="500" fill="#64748B" direction="rtl">كل خدماتك في مكان واحد</text>
+    </g>
+    </svg>
